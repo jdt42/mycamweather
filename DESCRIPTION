@@ -1,0 +1,10 @@
+Package: mycamweather
+Type: Package
+Title: Plot Weather
+Version: 1.1
+Date: 2014-01-08
+Author: Jon Tyzack
+Maintainer: Jon <jdt42@cam.ac.uk>
+Description: More about what it does (maybe more than one line)
+Depends: camweather
+License: GPL-2
